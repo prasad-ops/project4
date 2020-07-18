@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="230134" started-at="2020-07-18T14:38:39Z" finished-at="2020-07-18T14:42:29Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="230134" started-at="2020-07-18T14:38:39Z" finished-at="2020-07-18T14:42:29Z">
+      <class name="com.project.Testngproject.SearchCartAutomation">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.project.Testngproject.SearchCartAutomation@68c4039c]" name="setUp" is-config="true" duration-ms="13819" started-at="2020-07-18T14:41:17Z" finished-at="2020-07-18T14:41:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="SearchbarCheck()[pri:4, instance:com.project.Testngproject.SearchCartAutomation@68c4039c]" name="SearchbarCheck" duration-ms="12374" started-at="2020-07-18T14:41:31Z" finished-at="2020-07-18T14:41:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchbarCheck -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.project.Testngproject.SearchCartAutomation@68c4039c]" name="tearDown" is-config="true" duration-ms="258" started-at="2020-07-18T14:41:44Z" finished-at="2020-07-18T14:41:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.project.Testngproject.SearchCartAutomation@68c4039c]" name="setUp" is-config="true" duration-ms="14358" started-at="2020-07-18T14:41:44Z" finished-at="2020-07-18T14:41:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addCartAutomation()[pri:5, instance:com.project.Testngproject.SearchCartAutomation@68c4039c]" name="addCartAutomation" duration-ms="30190" started-at="2020-07-18T14:41:58Z" finished-at="2020-07-18T14:42:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCartAutomation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.project.Testngproject.SearchCartAutomation@68c4039c]" name="tearDown" is-config="true" duration-ms="353" started-at="2020-07-18T14:42:28Z" finished-at="2020-07-18T14:42:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.project.Testngproject.SearchCartAutomation -->
+      <class name="com.project.Testngproject.RegistrationFormTest">
+        <test-method status="PASS" signature="ShowRegistration()[pri:1, instance:com.project.Testngproject.RegistrationFormTest@26653222]" name="ShowRegistration" duration-ms="97818" started-at="2020-07-18T14:38:39Z" finished-at="2020-07-18T14:40:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShowRegistration -->
+      </class> <!-- com.project.Testngproject.RegistrationFormTest -->
+      <class name="com.project.Testngproject.LoginForm">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.project.Testngproject.LoginForm@3532ec19]" name="setUp" is-config="true" duration-ms="17495" started-at="2020-07-18T14:40:17Z" finished-at="2020-07-18T14:40:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LoginPageTest()[pri:2, instance:com.project.Testngproject.LoginForm@3532ec19]" name="LoginPageTest" duration-ms="13756" started-at="2020-07-18T14:40:34Z" finished-at="2020-07-18T14:40:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.project.Testngproject.LoginForm@3532ec19]" name="tearDown" is-config="true" duration-ms="389" started-at="2020-07-18T14:40:48Z" finished-at="2020-07-18T14:40:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.project.Testngproject.LoginForm@3532ec19]" name="setUp" is-config="true" duration-ms="18511" started-at="2020-07-18T14:40:48Z" finished-at="2020-07-18T14:41:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="invalidLoginTest()[pri:3, instance:com.project.Testngproject.LoginForm@3532ec19]" name="invalidLoginTest" duration-ms="10492" started-at="2020-07-18T14:41:07Z" finished-at="2020-07-18T14:41:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.project.Testngproject.LoginForm@3532ec19]" name="tearDown" is-config="true" duration-ms="223" started-at="2020-07-18T14:41:17Z" finished-at="2020-07-18T14:41:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.project.Testngproject.LoginForm -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
